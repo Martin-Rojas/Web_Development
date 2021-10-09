@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+p {
+  display: inline-block;
+  font-size: 36px;
+}
+
+span {
+  font-size: 36px;
+}
